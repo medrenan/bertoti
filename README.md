@@ -166,11 +166,17 @@ Olá! Sou **Renan Alves de Medeiros**, cursante de Análise e Desenvolvimento de
   Com o uso de HTML também foi possível fazer a conexão com o controlador do sistema, a fim de direcionar botões e atalhos presentes nas telas para serviços construídos no backend da aplicação e apresentar os dados encontrados dinamicamente.
   
   #### Contribuições Pessoais
+  <details>
+    <summary>Product Owner</summary>
   Neste projeto pude ser o Product Owner da equipe, portanto além das responsabilidades de desenvolvedor, também fiquei responsável pelo contato direto com o cliente, apresentando o que foi construído durante a sprint e num processo contínuo de validação e negociação de prazos e requisitos. Também tive o encargo de sanar as dúvidas da equipe durante o projeto, sempre comunicando a melhor forma de seguir com o projeto de acordo com as demandas do cliente.
-  
+
   Como Product Owner, construí efetivamente os recursos da metodologia Scrum para a posição, definindo o Product Backlog, gerando os gráficos de burndown e parametrizando a equipe em relação do estado de desenvolvimento para com os requisitos necessários e funcionalidades a serem entregues que foram previamente negociadas.
+  </details>
+  <details>
+    <summary>Desnovlvedor Back-End</summary>
   
-  Além disso, atuei como desenvolvedor, principalmente no back-end da aplicação. Criando rotas de integração de serviços de processamento dos dados fornecidos pela tela. Neste projeto, principalmente, compreendi melhor aspectos importantes para um desenvolvedor web, tanto pelo contato com o produto quanto com as tecnologias empregadas e seus usos, como a construção das rotas e a definição de um banco de dados relacional funcional.
+  Também atuei como desenvolvedor, principalmente no back-end da aplicação. Criando rotas de integração de serviços de processamento dos dados fornecidos pela tela. Neste projeto, principalmente, compreendi melhor aspectos importantes para um desenvolvedor web, tanto pelo contato com o produto quanto com as tecnologias empregadas e seus usos, como a construção das rotas e a definição de um banco de dados relacional funcional.
+  </details>
   
 <div align="center">
   
